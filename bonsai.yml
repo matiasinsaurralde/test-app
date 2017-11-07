@@ -1,2 +1,4 @@
 docker:
   image: "node:8"
+command: "npm test"
+tags: "test_tag"
